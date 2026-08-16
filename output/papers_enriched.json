@@ -1,0 +1,459 @@
+[
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "content": {
+      "title": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
+      "authors": [
+        "Yaxin Luo",
+        "Haobin Jiang",
+        "Jialv Zou",
+        "Xu Huang",
+        "Wenhao Yan",
+        "Haodong Li",
+        "Zhengrong Yue",
+        "Jing Li",
+        "Xiaofu Chen",
+        "Xiaohan Zhao",
+        "Jiacheng Liu",
+        "Jiacheng Cui",
+        "Zhiqiang Shen",
+        "Xiaotong Li"
+      ],
+      "paper_url": "http://arxiv.org/abs/2608.13560v1",
+      "github_url": "",
+      "github_stars": 0,
+      "published_date": "2026-08-13T17:59:57Z",
+      "topic": "large language models",
+      "abstract": "Transforming multimodal sources into condensed and structured media outputs can be fundamentally conceptualized as a long-horizon agentic process centered on a model-harness system. While an ideal harness system should align with human design priors and accumulate reusable experience through empirical exploration to drive recursive self-improvement, existing paradigms remain static and fall short of this capability. In this paper, we present AutoDesign, a framework that aligns with human design ",
+      "llm_enrichment": {
+        "key_contribution": "AutoDesign presents a framework that aligns with human design priors and accumulates reusable experience through empirical exploration to drive recursive self-improvement.",
+        "methods_used": [
+          "meta-harness optimization",
+          "long-horizon agentic design"
+        ],
+        "application_domain": "AI, multimodal sources, media outputs",
+        "novelty_score": 8
+      },
+      "llm_model_used": "llama-3.1-8b-instant"
+    },
+    "collectedAt": "2026-08-15T19:03:27.794454Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "content": {
+      "title": "OmniScientist: An Omni-Modal Omni-Discipline AI Scientist",
+      "authors": [
+        "Bobo Li",
+        "Hao Fei",
+        "Tianjie Ju",
+        "Mong-Li Lee",
+        "Wynne Hsu"
+      ],
+      "paper_url": "http://arxiv.org/abs/2608.13558v1",
+      "github_url": "",
+      "github_stars": 0,
+      "published_date": "2026-08-13T17:59:52Z",
+      "topic": "large language models",
+      "abstract": "Recent advances in foundation models have enabled AI scientists to automate increasingly complete research workflows, from hypothesis generation and code execution to manuscript preparation. Yet workflow coverage alone does not provide access to the full evidence on which scientific discovery depends. Existing systems typically reason over text, code, labels, or precomputed summaries, leaving scientifically decisive spatial, temporal, cross-channel, and procedural relations unavailable to the ag",
+      "llm_enrichment": {
+        "key_contribution": "OmniScientist enables AI scientists to automate increasingly complete research workflows, including spatial, temporal, cross-channel, and procedural relations.",
+        "methods_used": [
+          "foundation models",
+          "text reasoning",
+          "code execution",
+          "manuscript preparation"
+        ],
+        "application_domain": "AI for scientific research",
+        "novelty_score": 8
+      },
+      "llm_model_used": "llama-3.1-8b-instant"
+    },
+    "collectedAt": "2026-08-15T19:03:27.794454Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "content": {
+      "title": "Localised Horizons and Holographic Thermodynamics: Supercooling in the 1/D Expansion",
+      "authors": [
+        "Prateek Agrawal",
+        "Gaurang Ramakant Kane",
+        "Vazha Loladze"
+      ],
+      "paper_url": "http://arxiv.org/abs/2608.13557v1",
+      "github_url": "",
+      "github_stars": 0,
+      "published_date": "2026-08-13T17:59:44Z",
+      "topic": "large language models",
+      "abstract": "In holography, four-dimensional confining gauge theories are often modelled by five-dimensional Einstein--scalar gravity by choosing a specific form of the scalar potential. In a large class of non-conformal theories, we show that a predictive structure emerges for the thermal confinement transition by generalising the gravitational dual to $D+1$ dimensions and using a $1/D$ expansion. These results are independent of the details of the scalar potential, hinting towards universality. The black b",
+      "llm_enrichment": {
+        "key_contribution": "The authors generalise the gravitational dual to D+1 dimensions and use a 1/D expansion to show a predictive structure emerges for the thermal confinement transition in a large class of non-conformal theories.",
+        "methods_used": [
+          "Generalising the gravitational dual to D+1 dimensions",
+          "1/D expansion"
+        ],
+        "application_domain": "Theoretical Physics",
+        "novelty_score": 8
+      },
+      "llm_model_used": "llama-3.1-8b-instant"
+    },
+    "collectedAt": "2026-08-15T19:03:27.794454Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "content": {
+      "title": "V-RAE: Rethinking Video Latent Spaces for Generation",
+      "authors": [
+        "Minghui Guo",
+        "Shengqiong Wu",
+        "Hao Fei"
+      ],
+      "paper_url": "http://arxiv.org/abs/2608.13556v1",
+      "github_url": "",
+      "github_stars": 0,
+      "published_date": "2026-08-13T17:59:43Z",
+      "topic": "large language models",
+      "abstract": "Latent video generation relies on autoencoders to define a compact space in which generative models operate. Although video autoencoder architectures have evolved substantially, their latent spaces are still optimized primarily for pixel-level reconstruction and provide limited high-level semantic organization. A reconstruction-optimal latent space, however, need not be well suited to generative modeling. We propose V-RAE, a video representation autoencoder that builds compact generative latents",
+      "llm_enrichment": {
+        "key_contribution": "proposing V-RAE, a video representation autoencoder that builds compact generative latents",
+        "methods_used": [
+          "autoencoders",
+          "generative models"
+        ],
+        "application_domain": "Computer Vision",
+        "novelty_score": 8
+      },
+      "llm_model_used": "llama-3.1-8b-instant"
+    },
+    "collectedAt": "2026-08-15T19:03:27.794454Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "content": {
+      "title": "Defensive Boosting for Online Probabilistic Forecasting",
+      "authors": [
+        "Georgy Noarov",
+        "Aaron Roth"
+      ],
+      "paper_url": "http://arxiv.org/abs/2608.13554v1",
+      "github_url": "",
+      "github_stars": 0,
+      "published_date": "2026-08-13T17:59:35Z",
+      "topic": "large language models",
+      "abstract": "We study online probabilistic forecasting of binary outcomes chosen by an adaptive adversary. Given an online learning algorithm for a weak hypothesis class $H$, we would like to efficiently obtain two incomparable guarantees that existing online boosting techniques provide separately. Online gradient boosting competes in Brier score with the best predictor induced by the span of $H$ on every sequence, but promises nothing when the span does not contain an accurate predictor. Online weak-to-stro",
+      "llm_enrichment": {
+        "key_contribution": "Defensive Boosting for Online Probabilistic Forecasting provides two incomparable guarantees that existing online boosting techniques provide separately.",
+        "methods_used": [
+          "online gradient boosting",
+          "online weak-to-strong learning"
+        ],
+        "application_domain": "Machine Learning",
+        "novelty_score": 8
+      },
+      "llm_model_used": "llama-3.1-8b-instant"
+    },
+    "collectedAt": "2026-08-15T19:03:27.794454Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "content": {
+      "title": "PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives",
+      "authors": [
+        "Kaixin Ding",
+        "Xi Chen",
+        "Minghong Cai",
+        "Zhiyuan Xu",
+        "Yiyang Wang",
+        "Yuxiang Lu",
+        "Junyi Li",
+        "Shuyang Chen",
+        "Yuan Gao",
+        "Xin Tao",
+        "Pengfei Wan",
+        "Hengshuang Zhao"
+      ],
+      "paper_url": "http://arxiv.org/abs/2608.13552v1",
+      "github_url": "",
+      "github_stars": 0,
+      "published_date": "2026-08-13T17:59:30Z",
+      "topic": "large language models",
+      "abstract": "Video world models simulate future states conditioned on current observations and user actions. Recent systems have demonstrated impressive video consistency and action controllability over long sequences. However, fairly comparing these interactive models remains challenging. In practice, a human player typically evaluates a world model by pursuing long-horizon objectives through interaction. For example, a user may turn around 360 degrees to see whether the environment remains consistent, or w",
+      "llm_enrichment": {
+        "key_contribution": "Benchmarking world models with agent players over long-horizon objectives",
+        "methods_used": [
+          "video world models",
+          "agent players"
+        ],
+        "application_domain": "Computer Vision",
+        "novelty_score": 8
+      },
+      "llm_model_used": "llama-3.1-8b-instant"
+    },
+    "collectedAt": "2026-08-15T19:03:27.794454Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "content": {
+      "title": "Every PPT channel has finite entanglement-breaking index",
+      "authors": [
+        "Sang-Jun Park"
+      ],
+      "paper_url": "http://arxiv.org/abs/2608.13551v1",
+      "github_url": "",
+      "github_stars": 0,
+      "published_date": "2026-08-13T17:59:28Z",
+      "topic": "large language models",
+      "abstract": "We prove that every PPT linear map has finite entanglement-breaking index, thereby establishing the eventual entanglement-breaking property of PPT channels in full generality. Furthermore, by utilizing completely positive maps with low entanglement dimensionality, we show that a large family of PPT maps, which strictly containing the class of 2-superpositive maps, has entanglement-breaking index bounded above by 3, uniformly in the dimension. In particular, these results provide strong evidence ",
+      "llm_enrichment": {
+        "key_contribution": "Every PPT channel has finite entanglement-breaking index",
+        "methods_used": [
+          "completely positive maps",
+          "entanglement dimensionality"
+        ],
+        "application_domain": "Quantum Information Science",
+        "novelty_score": 8
+      },
+      "llm_model_used": "llama-3.1-8b-instant"
+    },
+    "collectedAt": "2026-08-15T19:03:27.794454Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "content": {
+      "title": "QuoteBench: How Matched Scores Can Hide Command-Path Failures",
+      "authors": [
+        "Shangao Li",
+        "Yao Zhang",
+        "Volker Tresp",
+        "Yuanyuan Yang"
+      ],
+      "paper_url": "http://arxiv.org/abs/2608.13547v1",
+      "github_url": "",
+      "github_stars": 0,
+      "published_date": "2026-08-13T17:57:20Z",
+      "topic": "large language models",
+      "abstract": "LLM coding agents issue Bash commands through interfaces that may serialize, wrap, and reparse model output. Matched execution scores alone cannot distinguish command-generation errors from failures introduced after generation. QuoteBench measures this boundary with exact final-state validation on 56 one-shot tasks from 14 incident-derived families, crossing the generation contract with the execution transport around one deliberately unescaped added parser. Escaping at the interpolation point re",
+      "llm_enrichment": {
+        "key_contribution": "QuoteBench measures the boundary between command-generation errors and failures introduced after generation with exact final-state validation.",
+        "methods_used": [
+          "exact final-state validation"
+        ],
+        "application_domain": "NLP",
+        "novelty_score": 8
+      },
+      "llm_model_used": "llama-3.1-8b-instant"
+    },
+    "collectedAt": "2026-08-15T19:03:27.794454Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "content": {
+      "title": "Alaya-EVOKE: From Linear-Scaling Supervision to Endless World",
+      "authors": [
+        "Yuanyang Yin",
+        "Gongxuan Wang",
+        "Yifan Zhan",
+        "Chuanhao Li",
+        "Kaipeng Zhang",
+        "Feng Zhao"
+      ],
+      "paper_url": "http://arxiv.org/abs/2608.13546v1",
+      "github_url": "",
+      "github_stars": 0,
+      "published_date": "2026-08-13T17:57:00Z",
+      "topic": "large language models",
+      "abstract": "Interactive world models must support persistent memory, responsive interaction, and long-horizon generation, yet these requirements place conflicting demands on the model. Maintaining history in the denoiser context or key-value cache incurs growing cost, forcing a trade-off between session length and retained memory, while low-latency interaction relies on few-step generation whose capabilities are bounded by its teacher. Evoke addresses both limitations by externalizing persistent world state",
+      "llm_enrichment": {
+        "key_contribution": "Evoke addresses both limitations by externalizing persistent world state",
+        "methods_used": [
+          "externalizing persistent world state"
+        ],
+        "application_domain": "RL",
+        "novelty_score": 8
+      },
+      "llm_model_used": "llama-3.1-8b-instant"
+    },
+    "collectedAt": "2026-08-15T19:03:27.794454Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "content": {
+      "title": "LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure",
+      "authors": [
+        "Fanfei Li",
+        "Jana Zeller",
+        "Manuel Prada-Corral",
+        "Thaddäus Wiedemer",
+        "Prasanna Mayilvahanan",
+        "Ryan Cotterell",
+        "Wieland Brendel"
+      ],
+      "paper_url": "http://arxiv.org/abs/2608.13545v1",
+      "github_url": "",
+      "github_stars": 0,
+      "published_date": "2026-08-13T17:56:12Z",
+      "topic": "large language models",
+      "abstract": "Modern language models are trained on heterogeneous web-scale text corpora. Consequently, studying knowledge and skill acquisition is difficult, as prior exposure to related content is hard to characterize. To address this challenge, we introduce LITTLECURRICULUM, a curated 88B-token pretraining corpus tailored to U.S. elementary school material, explicitly excluding concepts, facts, and vocabulary taught above Grade 5. Training a 5B-parameter LLM from scratch on LITTLECURRICULUM yields LITTLELE",
+      "llm_enrichment": {
+        "key_contribution": "Introducing LITTLECURRICULUM, a curated pretraining corpus for language models to study knowledge and skill acquisition.",
+        "methods_used": [
+          "curated pretraining corpus",
+          "language models"
+        ],
+        "application_domain": "NLP",
+        "novelty_score": 8
+      },
+      "llm_model_used": "llama-3.1-8b-instant"
+    },
+    "collectedAt": "2026-08-15T19:03:27.794454Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "content": {
+      "title": "Skew Hives, Skew Skeps, Skew Schur Log-Concavity",
+      "authors": [
+        "Tuong Le",
+        "Son Nguyen"
+      ],
+      "paper_url": "http://arxiv.org/abs/2608.13544v1",
+      "github_url": "",
+      "github_stars": 0,
+      "published_date": "2026-08-13T17:55:43Z",
+      "topic": "large language models",
+      "abstract": "Knutson and Tao's hives is a combinatorial model to compute Littlewood--Richardson coefficients. Similar to hives, Speyer introduced skeps and used them to prove a Schur log-concavity conjecture by Lam--Postnikov--Pylyavskyy. We first introduce skew hive and skew skep models, which specialize to both hives and skeps, and use this to prove a skew Schur log-concavity result generalizing Lam--Postnikov--Pylyavskyy conjecture. As a consequence, we obtain some log-concavity results concerning Newell-",
+      "llm_enrichment": {
+        "key_contribution": "Introducing skew hive and skew skep models to prove a skew Schur log-concavity result generalizing Lam--Postnikov--Pylyavskyy conjecture.",
+        "methods_used": [
+          "combinatorial model",
+          "Littlewood--Richardson coefficients",
+          "Schur log-concavity"
+        ],
+        "application_domain": "Combinatorics",
+        "novelty_score": 9
+      },
+      "llm_model_used": "llama-3.1-8b-instant"
+    },
+    "collectedAt": "2026-08-15T19:03:27.794454Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "content": {
+      "title": "Clifford Circuit Synthesis for Distributed Quantum Architectures with Arbitrary Network Topology",
+      "authors": [
+        "Tuomas Laakkonen"
+      ],
+      "paper_url": "http://arxiv.org/abs/2608.13543v1",
+      "github_url": "",
+      "github_stars": 0,
+      "published_date": "2026-08-13T17:55:40Z",
+      "topic": "large language models",
+      "abstract": "To achieve large-scale fault-tolerant quantum computation, it may be easier to combine many small sets of qubits than to construct a single large set. For example via quantum error correction with block codes, or distributed quantum processors utilizing shared entanglement. In these regimes, the time or error budget of the overall quantum computation may be dominated by non-local operations. Hence, it is worthwhile to minimize the number of these operations. We consider the case where both non-l",
+      "llm_enrichment": {
+        "key_contribution": "Developing Clifford circuit synthesis for distributed quantum architectures with arbitrary network topology to minimize non-local operations.",
+        "methods_used": [
+          "Clifford circuit synthesis",
+          "Distributed quantum architectures"
+        ],
+        "application_domain": "Quantum Computing",
+        "novelty_score": 8
+      },
+      "llm_model_used": "llama-3.1-8b-instant"
+    },
+    "collectedAt": "2026-08-15T19:03:27.794454Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "content": {
+      "title": "SAEVerbalizer: Generating Explanations for Sparse Autoencoder Features via Representation Verbalization",
+      "authors": [
+        "Weihan Meng",
+        "Hongzhu Guo",
+        "Yi Jing",
+        "Dewen Liu",
+        "Zijun Yao",
+        "Xiaozhi Wang",
+        "Lei Hou",
+        "Juanzi Li"
+      ],
+      "paper_url": "http://arxiv.org/abs/2608.13538v1",
+      "github_url": "",
+      "github_stars": 0,
+      "published_date": "2026-08-13T17:54:11Z",
+      "topic": "large language models",
+      "abstract": "Sparse autoencoders (SAEs) are proposed to extract numerous features from large language model (LLM) representations, yet explaining these features still relies primarily on external observation. This reliance leads to superficial explanations inferred from observed model behavior and computational inefficiency from collecting such behavioral evidence at scale. We introduce SAEVerbalizer, a framework that injects SAE decoder directions into an LLM's representations and fine-tunes the LLM's downs",
+      "llm_enrichment": {
+        "key_contribution": "Introducing SAEVerbalizer, a framework that generates explanations for sparse autoencoder features via representation verbalization.",
+        "methods_used": [
+          "Sparse Autoencoders",
+          "Large Language Model",
+          "Fine-tuning"
+        ],
+        "application_domain": "Natural Language Processing (NLP)",
+        "novelty_score": 8
+      },
+      "llm_model_used": "llama-3.1-8b-instant"
+    },
+    "collectedAt": "2026-08-15T19:03:27.794454Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "content": {
+      "title": "Kinematic Fingerprints of a Nucleon-Triggered $V_{\\mathcal{B}}$ in Rare $η^{(\\prime)}\\toπ^0(η)γγ$ Decays on Nucleon Targets",
+      "authors": [
+        "Yaroslav Balytskyi"
+      ],
+      "paper_url": "http://arxiv.org/abs/2608.13537v1",
+      "github_url": "",
+      "github_stars": 0,
+      "published_date": "2026-08-13T17:53:11Z",
+      "topic": "large language models",
+      "abstract": "The nucleon-triggered vector-boson scenario $V_{\\mathcal B}$ was motivated by a statistically significant discrepancy between the KLOE measurement, $\\mathrm{BR}^{η\\rightarrowπ^{0}γγ}_{\\text{KLOE}} = \\left(0.98\\pm0.11_{\\text{stat}}\\pm0.14_{\\text{syst}}\\right)\\times10^{-4}$, and the current world average, $\\left(2.55\\pm0.22\\right)\\times10^{-4}$, dominated by MAMI photoproduction data. In this model, the new interaction is activated by external nucleons, which causes deviations from the Standard Mo",
+      "llm_enrichment": {
+        "raw": "{\n  \"key_contribution\": \"The paper proposes a new interaction, nucleon-triggered vector-boson scenario $V_{\\mathcal B}$, which causes deviations from the Standard Model in rare $η^{(\\prime)}\\toπ^0(η)γγ$ decays on nucleon targets.\",\n  \"methods_used\": [\"statistical analysis\", \"systematic analysis\"],\n  \"application_domain\": \"Particle Physics\",\n  \"novelty_score\": 8\n}"
+      },
+      "llm_model_used": "llama-3.1-8b-instant"
+    },
+    "collectedAt": "2026-08-15T19:03:27.794454Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "content": {
+      "title": "Surfaces with nonpositive magnetic curvature",
+      "authors": [
+        "Boris Hasselblatt",
+        "JinCheng Wang"
+      ],
+      "paper_url": "http://arxiv.org/abs/2608.13534v1",
+      "github_url": "",
+      "github_stars": 0,
+      "published_date": "2026-08-13T17:50:07Z",
+      "topic": "large language models",
+      "abstract": "We study weakly hyperbolic magnetic (or twisted geodesic) flows of negatively curved surfaces (with nonpositive ''magnetic curvature\") with a view to topological dynamics and ergodic theory, using their large-scale geometry on the universal cover.",
+      "llm_enrichment": {
+        "key_contribution": "We study weakly hyperbolic magnetic (or twisted geodesic) flows of negatively curved surfaces with a view to topological dynamics and ergodic theory.",
+        "methods_used": [
+          "large-scale geometry",
+          "universal cover"
+        ],
+        "application_domain": "topological dynamics and ergodic theory",
+        "novelty_score": 8
+      },
+      "llm_model_used": "llama-3.1-8b-instant"
+    },
+    "collectedAt": "2026-08-15T19:03:27.794454Z"
+  }
+]

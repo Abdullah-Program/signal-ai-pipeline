@@ -1,0 +1,407 @@
+[
+  {
+    "schemaVersion": "1.0",
+    "recordType": "STARTUP",
+    "source": {
+      "name": "HuggingFace",
+      "url": "https://huggingface.co/Qwen"
+    },
+    "content": {
+      "entityName": "Qwen",
+      "slug": "qwen",
+      "employeeCount": null,
+      "founded": null,
+      "location": null,
+      "totalFunding": null,
+      "category": "AI/ML Organization",
+      "description": "AI organization on HuggingFace with models in text-generation",
+      "llm_enrichment": {
+        "entityName": "Qwen",
+        "description": "AI organization on HuggingFace with models in text-generation",
+        "category": "AI",
+        "employeeCount": null,
+        "location": null
+      },
+      "llm_model_used": "llama-3.1-8b-instant"
+    },
+    "collectedAt": "2026-08-15T19:26:50.640149Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "STARTUP",
+    "source": {
+      "name": "HuggingFace",
+      "url": "https://huggingface.co/facebook"
+    },
+    "content": {
+      "entityName": "facebook",
+      "slug": "facebook",
+      "employeeCount": null,
+      "founded": null,
+      "location": null,
+      "totalFunding": null,
+      "category": "AI/ML Organization",
+      "description": "AI organization on HuggingFace with models in text-generation",
+      "llm_enrichment": {
+        "entityName": "Facebook",
+        "description": "AI organization on HuggingFace with models in text-generation",
+        "category": "AI",
+        "employeeCount": null,
+        "location": null
+      },
+      "llm_model_used": "llama-3.1-8b-instant"
+    },
+    "collectedAt": "2026-08-15T19:26:50.640149Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "STARTUP",
+    "source": {
+      "name": "HuggingFace",
+      "url": "https://huggingface.co/trl-internal-testing"
+    },
+    "content": {
+      "entityName": "trl-internal-testing",
+      "slug": "trl-internal-testing",
+      "employeeCount": null,
+      "founded": null,
+      "location": null,
+      "totalFunding": null,
+      "category": "AI/ML Organization",
+      "description": "AI organization on HuggingFace with models in text-generation",
+      "llm_enrichment": {
+        "entityName": "trl-internal-testing",
+        "description": "AI organization on HuggingFace with models in text-generation",
+        "category": "AI",
+        "employeeCount": null,
+        "location": null
+      },
+      "llm_model_used": "llama-3.1-8b-instant"
+    },
+    "collectedAt": "2026-08-15T19:26:50.640149Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "STARTUP",
+    "source": {
+      "name": "HuggingFace",
+      "url": "https://huggingface.co/openai-community"
+    },
+    "content": {
+      "entityName": "openai-community",
+      "slug": "openai-community",
+      "employeeCount": null,
+      "founded": null,
+      "location": null,
+      "totalFunding": null,
+      "category": "AI/ML Organization",
+      "description": "AI organization on HuggingFace with models in text-generation",
+      "llm_enrichment": {
+        "entityName": "openai-community",
+        "description": "AI organization on HuggingFace with models in text-generation",
+        "category": "AI",
+        "employeeCount": null,
+        "location": null
+      },
+      "llm_model_used": "llama-3.1-8b-instant"
+    },
+    "collectedAt": "2026-08-15T19:26:50.640149Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "STARTUP",
+    "source": {
+      "name": "HuggingFace",
+      "url": "https://huggingface.co/nvidia"
+    },
+    "content": {
+      "entityName": "nvidia",
+      "slug": "nvidia",
+      "employeeCount": null,
+      "founded": null,
+      "location": null,
+      "totalFunding": null,
+      "category": "AI/ML Organization",
+      "description": "AI organization on HuggingFace with models in text-generation",
+      "llm_enrichment": {
+        "entityName": "NVIDIA",
+        "description": "AI organization on HuggingFace with models in text-generation",
+        "category": "AI",
+        "employeeCount": null,
+        "location": null
+      },
+      "llm_model_used": "llama-3.1-8b-instant"
+    },
+    "collectedAt": "2026-08-15T19:26:50.640149Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "STARTUP",
+    "source": {
+      "name": "HuggingFace",
+      "url": "https://huggingface.co/unsloth"
+    },
+    "content": {
+      "entityName": "unsloth",
+      "slug": "unsloth",
+      "employeeCount": null,
+      "founded": null,
+      "location": null,
+      "totalFunding": null,
+      "category": "AI/ML Organization",
+      "description": "AI organization on HuggingFace with models in text-generation",
+      "llm_enrichment": {
+        "entityName": "unsloth",
+        "description": "AI organization on HuggingFace with models in text-generation",
+        "category": "AI",
+        "employeeCount": null,
+        "location": null
+      },
+      "llm_model_used": "llama-3.1-8b-instant"
+    },
+    "collectedAt": "2026-08-15T19:26:50.640149Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "STARTUP",
+    "source": {
+      "name": "HuggingFace",
+      "url": "https://huggingface.co/meta-llama"
+    },
+    "content": {
+      "entityName": "meta-llama",
+      "slug": "meta-llama",
+      "employeeCount": null,
+      "founded": null,
+      "location": null,
+      "totalFunding": null,
+      "category": "AI/ML Organization",
+      "description": "AI organization on HuggingFace with models in text-generation",
+      "llm_enrichment": {
+        "entityName": "meta-llama",
+        "description": "AI organization on HuggingFace with models in text-generation",
+        "category": "AI",
+        "employeeCount": null,
+        "location": null
+      },
+      "llm_model_used": "llama-3.1-8b-instant"
+    },
+    "collectedAt": "2026-08-15T19:26:50.640149Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "STARTUP",
+    "source": {
+      "name": "HuggingFace",
+      "url": "https://huggingface.co/openai"
+    },
+    "content": {
+      "entityName": "openai",
+      "slug": "openai",
+      "employeeCount": null,
+      "founded": null,
+      "location": null,
+      "totalFunding": null,
+      "category": "AI/ML Organization",
+      "description": "AI organization on HuggingFace with models in text-generation",
+      "llm_enrichment": {
+        "entityName": "OpenAI",
+        "description": "AI organization on HuggingFace with models in text-generation",
+        "category": "AI",
+        "employeeCount": null,
+        "location": null
+      },
+      "llm_model_used": "llama-3.1-8b-instant"
+    },
+    "collectedAt": "2026-08-15T19:26:50.640149Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "STARTUP",
+    "source": {
+      "name": "HuggingFace",
+      "url": "https://huggingface.co/deepseek-ai"
+    },
+    "content": {
+      "entityName": "deepseek-ai",
+      "slug": "deepseek-ai",
+      "employeeCount": null,
+      "founded": null,
+      "location": null,
+      "totalFunding": null,
+      "category": "AI/ML Organization",
+      "description": "AI organization on HuggingFace with models in text-generation",
+      "llm_enrichment": {
+        "entityName": "deepseek-ai",
+        "description": "AI organization on HuggingFace with models in text-generation",
+        "category": "AI",
+        "employeeCount": null,
+        "location": null
+      },
+      "llm_model_used": "llama-3.1-8b-instant"
+    },
+    "collectedAt": "2026-08-15T19:26:50.640149Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "STARTUP",
+    "source": {
+      "name": "HuggingFace",
+      "url": "https://huggingface.co/farbodtavakkoli"
+    },
+    "content": {
+      "entityName": "farbodtavakkoli",
+      "slug": "farbodtavakkoli",
+      "employeeCount": null,
+      "founded": null,
+      "location": null,
+      "totalFunding": null,
+      "category": "AI/ML Organization",
+      "description": "AI organization on HuggingFace with models in text-generation",
+      "llm_enrichment": {
+        "entityName": "farbodtavakkoli",
+        "description": "AI organization on HuggingFace with models in text-generation",
+        "category": "AI",
+        "employeeCount": null,
+        "location": null
+      },
+      "llm_model_used": "llama-3.1-8b-instant"
+    },
+    "collectedAt": "2026-08-15T19:26:50.640149Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "STARTUP",
+    "source": {
+      "name": "HuggingFace",
+      "url": "https://huggingface.co/google"
+    },
+    "content": {
+      "entityName": "google",
+      "slug": "google",
+      "employeeCount": null,
+      "founded": null,
+      "location": null,
+      "totalFunding": null,
+      "category": "AI/ML Organization",
+      "description": "AI organization on HuggingFace with models in text-generation",
+      "llm_enrichment": {
+        "entityName": "Google",
+        "description": "AI organization on HuggingFace with models in text-generation",
+        "category": "AI",
+        "employeeCount": null,
+        "location": null
+      },
+      "llm_model_used": "llama-3.1-8b-instant"
+    },
+    "collectedAt": "2026-08-15T19:26:50.640149Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "STARTUP",
+    "source": {
+      "name": "HuggingFace",
+      "url": "https://huggingface.co/ornith-ai"
+    },
+    "content": {
+      "entityName": "ornith-ai",
+      "slug": "ornith-ai",
+      "employeeCount": null,
+      "founded": null,
+      "location": null,
+      "totalFunding": null,
+      "category": "AI/ML Organization",
+      "description": "AI organization on HuggingFace with models in text-generation",
+      "llm_enrichment": {
+        "entityName": "ornith-ai",
+        "description": "AI organization on HuggingFace with models in text-generation",
+        "category": "AI",
+        "employeeCount": null,
+        "location": null
+      },
+      "llm_model_used": "llama-3.1-8b-instant"
+    },
+    "collectedAt": "2026-08-15T19:26:50.640149Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "STARTUP",
+    "source": {
+      "name": "HuggingFace",
+      "url": "https://huggingface.co/dphn"
+    },
+    "content": {
+      "entityName": "dphn",
+      "slug": "dphn",
+      "employeeCount": null,
+      "founded": null,
+      "location": null,
+      "totalFunding": null,
+      "category": "AI/ML Organization",
+      "description": "AI organization on HuggingFace with models in text-generation",
+      "llm_enrichment": {
+        "entityName": "dphn",
+        "description": "AI organization on HuggingFace with models in text-generation",
+        "category": "AI",
+        "employeeCount": null,
+        "location": null
+      },
+      "llm_model_used": "llama-3.1-8b-instant"
+    },
+    "collectedAt": "2026-08-15T19:26:50.640149Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "STARTUP",
+    "source": {
+      "name": "HuggingFace",
+      "url": "https://huggingface.co/hmellor"
+    },
+    "content": {
+      "entityName": "hmellor",
+      "slug": "hmellor",
+      "employeeCount": null,
+      "founded": null,
+      "location": null,
+      "totalFunding": null,
+      "category": "AI/ML Organization",
+      "description": "AI organization on HuggingFace with models in text-generation",
+      "llm_enrichment": {
+        "entityName": "hmellor",
+        "description": "AI organization on HuggingFace with models in text-generation",
+        "category": "AI",
+        "employeeCount": null,
+        "location": null
+      },
+      "llm_model_used": "llama-3.1-8b-instant"
+    },
+    "collectedAt": "2026-08-15T19:26:50.640149Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "STARTUP",
+    "source": {
+      "name": "HuggingFace",
+      "url": "https://huggingface.co/ibm-granite"
+    },
+    "content": {
+      "entityName": "ibm-granite",
+      "slug": "ibm-granite",
+      "employeeCount": null,
+      "founded": null,
+      "location": null,
+      "totalFunding": null,
+      "category": "AI/ML Organization",
+      "description": "AI organization on HuggingFace with models in text-generation",
+      "llm_enrichment": {
+        "entityName": "ibm-granite",
+        "description": "AI organization on HuggingFace with models in text-generation",
+        "category": "AI",
+        "employeeCount": null,
+        "location": null
+      },
+      "llm_model_used": "llama-3.1-8b-instant"
+    },
+    "collectedAt": "2026-08-15T19:26:50.640149Z"
+  }
+]

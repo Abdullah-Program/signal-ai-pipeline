@@ -1,0 +1,420 @@
+[
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/wayve/product-manager-ai-driver-100393"
+    },
+    "content": {
+      "company": "Wayve",
+      "title": "Product Manager, AI Driver",
+      "date": "2026-08-15T17:55:13+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "location": "",
+      "salary": "",
+      "tags": "Product & Delivery"
+    },
+    "collectedAt": "2026-08-15T19:33:01.978753+00:00Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/westwing/trainee-product-engineering-munich-office-100967"
+    },
+    "content": {
+      "company": "Westwing",
+      "title": "Trainee Product Engineering (m/f/d)",
+      "date": "2026-08-15T17:09:32+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "location": "Munich Office",
+      "salary": "",
+      "tags": "trainee, product, engineer, engineering"
+    },
+    "collectedAt": "2026-08-15T19:33:01.978753+00:00Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/unitelabs/senior-python-engineer-platform-libraries-munchen-156082"
+    },
+    "content": {
+      "company": "Unitelabs",
+      "title": "Senior Python Engineer, Platform Libraries (m/f/d)",
+      "date": "2026-08-15T17:09:31+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "location": "München",
+      "salary": "",
+      "tags": "Python, Developer, Biotech, Rust, Software Development"
+    },
+    "collectedAt": "2026-08-15T19:33:01.978753+00:00Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/klickpiloten/ai-automation-engineer-marketing-operations-consulting-in-stuttgart-hamburg-oder-berlin-hybrid-126045"
+    },
+    "content": {
+      "company": "Klickpiloten",
+      "title": "AI Automation Engineer – Marketing & Operations Consulting (m/w/d) in Stuttgart, Hamburg oder Berlin – Hybrid",
+      "date": "2026-08-15T17:09:26+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "location": "Stuttgart",
+      "salary": "",
+      "tags": "AI & Automatisierung, interne Systeme, Kundenberatung, Digital.Marketing Technologist"
+    },
+    "collectedAt": "2026-08-15T19:33:01.978753+00:00Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/doctolib/fullstack-software-engineer-react-kotlin-ruby-on-rails-berlin-berlin-129908"
+    },
+    "content": {
+      "company": "Doctolib",
+      "title": "Fullstack Software Engineer  - React, Kotlin & Ruby on Rails (x/f/m)",
+      "date": "2026-08-15T11:55:31+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "location": "Berlin, Berlin",
+      "salary": "",
+      "tags": "Engineering"
+    },
+    "collectedAt": "2026-08-15T19:33:01.978753+00:00Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/moss/applied-ai-engineer-berlin-395031"
+    },
+    "content": {
+      "company": "Moss",
+      "title": "Applied AI Engineer",
+      "date": "2026-08-15T11:40:13+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "location": "Berlin",
+      "salary": "",
+      "tags": "EPD"
+    },
+    "collectedAt": "2026-08-15T19:33:01.978753+00:00Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-strategy-senior-consultant-munchen-115453"
+    },
+    "content": {
+      "company": "Trusteq Gmbh",
+      "title": "AI Strategy (Senior) Consultant (m/w/d)",
+      "date": "2026-08-15T11:09:30+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "location": "München",
+      "salary": "",
+      "tags": "Consultant, Senior Consultant, Artifical Intelligence, Festeinstellung, AI Strategy"
+    },
+    "collectedAt": "2026-08-15T19:33:01.978753+00:00Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-security-senior-consultant-munchen-283182"
+    },
+    "content": {
+      "company": "Trusteq Gmbh",
+      "title": "AI Security (Senior) Consultant (m/w/d)",
+      "date": "2026-08-15T11:09:30+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "location": "München",
+      "salary": "",
+      "tags": "AI Security, AI, Consultant, Senior Consultant"
+    },
+    "collectedAt": "2026-08-15T19:33:01.978753+00:00Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-governance-senior-consultant-munchen-224632"
+    },
+    "content": {
+      "company": "Trusteq Gmbh",
+      "title": "AI Governance (Senior) Consultant (m/w/d)",
+      "date": "2026-08-15T11:09:30+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "location": "München",
+      "salary": "",
+      "tags": "AI, GenAI, Künstliche Intelligenz, Artificial Intelligence, EU AI Act"
+    },
+    "collectedAt": "2026-08-15T19:33:01.978753+00:00Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-senior-developer-munchen-47583"
+    },
+    "content": {
+      "company": "Trusteq Gmbh",
+      "title": "AI (Senior) Developer (m/w/d)",
+      "date": "2026-08-15T11:09:30+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "location": "München",
+      "salary": "",
+      "tags": "AI, KI, Generative KI, AI Developer, IT-Consultant"
+    },
+    "collectedAt": "2026-08-15T19:33:01.978753+00:00Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-senior-consultant-munchen-174178"
+    },
+    "content": {
+      "company": "Trusteq Gmbh",
+      "title": "AI (Senior) Consultant (m/w/d)",
+      "date": "2026-08-15T11:09:30+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "location": "München",
+      "salary": "",
+      "tags": "AI, KI, IT-Consultant, Consultant, Senior Consultant AI"
+    },
+    "collectedAt": "2026-08-15T19:33:01.978753+00:00Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/emil-group-gmbh/senior-software-engineer-x-ai-enabled-insurance-platform-berlin-417851"
+    },
+    "content": {
+      "company": "Emil Group Gmbh",
+      "title": "(Senior) Software Engineer (f/m/d/x) AI-Enabled Insurance Platform",
+      "date": "2026-08-15T08:09:34+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "location": "Berlin",
+      "salary": "",
+      "tags": ""
+    },
+    "collectedAt": "2026-08-15T19:33:01.978753+00:00Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/escape/remote-security-advocate-ai-appsec-75786"
+    },
+    "content": {
+      "company": "Escape",
+      "title": "Security Advocate | AI AppSec",
+      "date": "2026-08-15T09:40:17+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "location": "Remote",
+      "salary": "",
+      "tags": "Marketing"
+    },
+    "collectedAt": "2026-08-15T19:33:01.978753+00:00Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/technical-lead-machine-learning-london-207981"
+    },
+    "content": {
+      "company": "Bjak",
+      "title": "Technical Lead, Machine Learning",
+      "date": "2026-08-15T09:40:11+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "location": "United Kingdom",
+      "salary": "",
+      "tags": "A1 Engineering"
+    },
+    "collectedAt": "2026-08-15T19:33:01.978753+00:00Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/staff-machine-learning-engineer-london-431496"
+    },
+    "content": {
+      "company": "Bjak",
+      "title": "Staff Machine Learning Engineer",
+      "date": "2026-08-15T09:40:11+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "location": "United Kingdom",
+      "salary": "",
+      "tags": "A1 Engineering"
+    },
+    "collectedAt": "2026-08-15T19:33:01.978753+00:00Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/engineering-manager-ai-payments-app-london-300380"
+    },
+    "content": {
+      "company": "Bjak",
+      "title": "Engineering Manager - AI Payments App",
+      "date": "2026-08-15T09:40:11+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "location": "United Kingdom",
+      "salary": "",
+      "tags": "Engineering"
+    },
+    "collectedAt": "2026-08-15T19:33:01.978753+00:00Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/lead-engineer-ai-payments-app-london-6836"
+    },
+    "content": {
+      "company": "Bjak",
+      "title": "Lead Engineer - AI Payments App",
+      "date": "2026-08-15T09:40:11+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "location": "United Kingdom",
+      "salary": "",
+      "tags": "Engineering"
+    },
+    "collectedAt": "2026-08-15T19:33:01.978753+00:00Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/engineering-manager-ai-native-email-app-london-493810"
+    },
+    "content": {
+      "company": "Bjak",
+      "title": "Engineering Manager - AI-Native Email App",
+      "date": "2026-08-15T09:40:11+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "location": "United Kingdom",
+      "salary": "",
+      "tags": "Engineering"
+    },
+    "collectedAt": "2026-08-15T19:33:01.978753+00:00Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/engineering-manager-ai-payments-app-london-30501"
+    },
+    "content": {
+      "company": "Bjak",
+      "title": "Engineering Manager - AI Payments App",
+      "date": "2026-08-15T09:40:11+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "location": "United Kingdom",
+      "salary": "",
+      "tags": "Engineering"
+    },
+    "collectedAt": "2026-08-15T19:33:01.978753+00:00Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/lead-engineer-ai-native-email-apps-london-229802"
+    },
+    "content": {
+      "company": "Bjak",
+      "title": "Lead Engineer - AI-native Email Apps",
+      "date": "2026-08-15T09:40:11+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "location": "United Kingdom",
+      "salary": "",
+      "tags": "Engineering"
+    },
+    "collectedAt": "2026-08-15T19:33:01.978753+00:00Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/lead-engineer-ai-native-email-app-london-464693"
+    },
+    "content": {
+      "company": "Bjak",
+      "title": "Lead Engineer - AI-Native Email App",
+      "date": "2026-08-15T09:40:11+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "location": "United Kingdom",
+      "salary": "",
+      "tags": "Engineering"
+    },
+    "collectedAt": "2026-08-15T19:33:01.978753+00:00Z"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/engineering-manager-ai-native-email-app-london-63635"
+    },
+    "content": {
+      "company": "Bjak",
+      "title": "Engineering Manager - AI-Native Email App",
+      "date": "2026-08-15T09:40:11+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "location": "United Kingdom",
+      "salary": "",
+      "tags": "Engineering"
+    },
+    "collectedAt": "2026-08-15T19:33:01.978753+00:00Z"
+  }
+]

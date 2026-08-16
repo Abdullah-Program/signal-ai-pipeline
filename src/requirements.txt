@@ -1,0 +1,12 @@
+aiohttp
+requests
+beautifulsoup4
+python-dotenv
+groq
+tqdm
+fake-useragent
+rapidfuzz
+pandas
+openpyxl
+aiofiles
+lxml
