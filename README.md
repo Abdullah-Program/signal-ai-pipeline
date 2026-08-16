@@ -45,26 +45,28 @@ python src/entity_resolver.py     # deduplication
 
 ## Project Structure
 
+```
 signal-ai/
 ├── src/
-│ ├── paper_scraper.py # Arxiv API + Papers with Code
-│ ├── startup_scraper.py # HuggingFace + GitHub orgs
-│ ├── product_scraper.py # HuggingFace models + spaces
-│ ├── news_jobs_scraper.py # RSS feeds + job board APIs
-│ ├── llm_orchestrator.py # Multi-tier LLM fallback engine
-│ ├── entity_resolver.py # Fuzzy entity deduplication
-│ └── requirements.txt
+│   ├── paper_scraper.py        # Arxiv API + Papers with Code
+│   ├── startup_scraper.py      # HuggingFace + GitHub orgs
+│   ├── product_scraper.py      # HuggingFace models + spaces
+│   ├── news_jobs_scraper.py    # RSS feeds + job board APIs
+│   ├── llm_orchestrator.py     # Multi-tier LLM fallback engine
+│   ├── entity_resolver.py      # Fuzzy entity deduplication
+│   ├── generate_pdf.py         # Architecture PDF generator
+│   └── requirements.txt
 ├── output/
-│ ├── research_papers.csv
-│ ├── startups.csv
-│ ├── products.csv
-│ ├── news.csv
-│ ├── jobs.csv
-│ └── entity_mapping_log.csv
+│   ├── research_papers.csv
+│   ├── startups.csv
+│   ├── products.csv
+│   ├── news.csv
+│   ├── jobs.csv
+│   └── entity_mapping_log.csv
 ├── .env.example
 ├── README.md
 └── architecture.pdf
-
+```
 ## Phase I — Massive Data Acquisition
 
 **Research Papers**
